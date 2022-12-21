@@ -1,0 +1,16 @@
+E:\C#\CSharp\BookMain\bin\Debug\BookMain.exe.config
+E:\C#\CSharp\BookMain\bin\Debug\BookMain.exe
+E:\C#\CSharp\BookMain\bin\Debug\BookMain.pdb
+E:\C#\CSharp\BookMain\bin\Debug\MetroFramework.Design.dll
+E:\C#\CSharp\BookMain\bin\Debug\MetroFramework.dll
+E:\C#\CSharp\BookMain\bin\Debug\MetroFramework.Fonts.dll
+E:\C#\CSharp\BookMain\obj\Debug\BookMain.csproj.AssemblyReference.cache
+E:\C#\CSharp\BookMain\obj\Debug\BookMain.csproj.SuggestedBindingRedirects.cache
+E:\C#\CSharp\BookMain\obj\Debug\BookMain.LoginForm.resources
+E:\C#\CSharp\BookMain\obj\Debug\BookMain.Properties.Resources.resources
+E:\C#\CSharp\BookMain\obj\Debug\BookMain.SignInForm.resources
+E:\C#\CSharp\BookMain\obj\Debug\BookMain.csproj.GenerateResource.cache
+E:\C#\CSharp\BookMain\obj\Debug\BookMain.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\BookMain\obj\Debug\BookMain.csproj.CopyComplete
+E:\C#\CSharp\BookMain\obj\Debug\BookMain.exe
+E:\C#\CSharp\BookMain\obj\Debug\BookMain.pdb
